@@ -4,7 +4,7 @@ This Project aims to develop Ventilator Modules that can be used as last resort 
 
 All modules should be buildable with parts, materials and skills that are available close to the locations where the ventilators are needed.
 
-Currently we have developed a working prototype for a ventilator pressure regulator achiving the goal of getting constant, adjustable PIns and PExp Pressures with widely avalable Parts.
+Currently we have developed a working prototype for a ventilator pressure regulator achiving the goal of getting constant, adjustable PIns and PExp Pressures with widely available Parts.
 
 ## Pressure Regulator
 ### Prototype Video

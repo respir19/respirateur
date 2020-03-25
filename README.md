@@ -9,3 +9,8 @@ Currently we have developed a working prototype for a ventilator pressure regula
 ## Pressure Regulator
 ### Prototype Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0
+### Working Principle
+#### Inhalation
+![inhalation](img/insp.png)
+#### Inhalation
+![exhalation](img/exp.png)

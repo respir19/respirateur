@@ -28,6 +28,9 @@ Geplante Baugruppen sind:
 [miro-Board](https://miro.com/app/board/o9J_kuxCsRI=/) (Ideen and Link-Sammlung)
 
 ## Druckregler
+
+![Regulator-parts](img/system.jpg)
+
 ### Prototyp Video
 [![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
 

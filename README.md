@@ -27,6 +27,9 @@ The components are:
 [miro-Board](https://miro.com/app/board/o9J_kuxCsRI=/) (Idea and Link Collection)
 
 ## Pressure regulator
+
+![Regulator-parts](img/system.jpg)
+
 ### Here’s a video of a prototype
 
 [![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
@@ -37,6 +40,7 @@ Problems with this prototype:
 - [Servo/Microtroller](https://github.com/auenkind/YACoVV/issues/2)
 
 ### Functional principle
+
 The concept behind the water column makes sure pressure regulation functions. To generate modifiable pressures in the system, tubes are immersed into water appropriate to the wanted pressure. The control tubes are simultaneously used as relief valve. 
 
 The “return paths” of the water column are savely secured through check valves so that no water can flow back to the patient.

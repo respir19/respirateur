@@ -10,13 +10,13 @@ Geplante Baugruppen sind:
 
 - [Druckregler und Taktgebung](#Druckregler)
 
-- Atemgas-Erzeugung / Aufbereitung
+- [Atemgas-Erzeugung / Aufbereitung](#Atemgaserzeugung)
     - Sauersoffmischung
     - Rückgewinnung
         - Co2-Absorber
     - Heizung
     - Anfeuchtung
-- Monitoring
+- [Monitoring](#Monitoring)
     - Volumenmessung
     - Druckmessung
     - Frequenzmessung

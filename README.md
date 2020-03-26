@@ -42,7 +42,15 @@ The “return paths” of the water column are savely secured through check valv
 
 Because the high entrance pressures can only be regulated through this system with very precise component rules, we decided on using a 50 mBar gas pressure regulator to pre-regulate the pressure. Since these regulations are available all over the world, they are an ideal solution for our problem.
 
-We are using the basic principle behind constriction hose-valves for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. The clocking functions through a microcontroller and two servos. This solution is replaced through the motor of a windscreen wiper with two camdiscs.
+We are using the basic principle behind constriction hose-valves for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. 
+
+#### Valve-Control and Timing
+
+The timing currently functions through a microcontroller and two servos. This solution will replaced with the motor of a windscreen wiper with two camdiscs.
+
+![Camdiscs](img/camdisc.png)
+
+[Camdisc Animation](https://autode.sk/3dx6EbZ)
 
 #### Inhalation
 ![inhalation](img/insp.png)

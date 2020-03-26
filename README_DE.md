@@ -25,6 +25,8 @@ Geplante Baugruppen sind:
     - Druckmessung
     - Frequenzmessung
 
+[miro-Board](https://miro.com/app/board/o9J_kuxCsRI=/) (Ideen and Link-Sammlung)
+
 ## Druckregler
 ### Prototyp Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0

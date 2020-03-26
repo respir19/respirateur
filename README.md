@@ -8,6 +8,8 @@ All modules should be buildable with parts, materials and skills that are availa
 
 Currently we have developed a working prototype for a ventilator pressure regulator achiving the goal of getting constant, adjustable PIns and PExp Pressures with widely available Parts.
 
+[miro-Board](https://miro.com/app/board/o9J_kuxCsRI=/) (Idea and Link Collection)
+
 ## Pressure Regulator
 ### Prototype Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0

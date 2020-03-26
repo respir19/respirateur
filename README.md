@@ -28,7 +28,8 @@ The components are:
 
 ## Pressure regulator
 ### Here’s a video of a prototype
-https://www.youtube.com/watch?v=eBIlyaHW4l0
+
+[![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
 
 Problems with this prototype:
 - [Lack of check valves](https://github.com/auenkind/YACoVV/issues/3)
@@ -44,18 +45,18 @@ Because the high entrance pressures can only be regulated through this system wi
 
 We are using the basic principle behind constriction hose-valves for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. 
 
-#### Valve-Control and Timing
-
-The timing currently functions through a microcontroller and two servos. This solution will replaced with the motor of a windscreen wiper with two camdiscs.
-
-![Camdiscs](img/camdisc.png)
-
-[Camdisc Animation](https://autode.sk/3dx6EbZ)
-
 #### Inhalation
 ![inhalation](img/insp.png)
 #### Exhalation
 ![exhalation](img/exp.png)
+
+#### Valve-Control and Timing
+
+The timing currently functions through a microcontroller and two servos. This solution will replaced with the motor of a windscreen wiper with two camdiscs.
+
+[![Camdiscs](img/camdisc.png)](https://autode.sk/3dx6EbZ)
+
+[Camdisc Animation](https://autode.sk/3dx6EbZ)
 
 ## Breath gas production
 This component reuses the exhaled breath gas. Co2 is absorbed and oxygen is mixed in. 

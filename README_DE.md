@@ -29,7 +29,7 @@ Geplante Baugruppen sind:
 
 ## Druckregler
 ### Prototyp Video
-https://www.youtube.com/watch?v=eBIlyaHW4l0
+[![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
 
 Probleme mit diesem Prototyp:
 - [Rückschlagventile fehlen](https://github.com/auenkind/YACoVV/issues/3)
@@ -44,19 +44,18 @@ Da sich hohe Eingangdrücke über dieses System nur mit sehr genauen Komponenten
 
 Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas Berührung kommen.
 
-#### Ventilsteuerung
-
-Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwei Servos. Diese Lösung wird durch einen Scheibenwischermotor mit zwei [Kurvenscheiben](https://de.wikipedia.org/wiki/Kurvenscheibe) ersetzt werden.
-
-![Kurvenscheiben](img/camdisc.png)
-
-[Animation der Steuerung](https://autode.sk/3dx6EbZ)
-
-
 #### Inhalation
 ![inhalation](img/insp.png)
 #### Exhalation
 ![exhalation](img/exp.png)
+
+#### Ventilsteuerung
+
+Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwei Servos. Diese Lösung wird durch einen Scheibenwischermotor mit zwei [Kurvenscheiben](https://de.wikipedia.org/wiki/Kurvenscheibe) ersetzt werden.
+
+[![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
+
+[Animation der Steuerung](https://autode.sk/3dx6EbZ)
 
 ## Atemgaserzeugung
 Diese Baugruppe gewinnt das ausgeatmete Atemgas zurück. Co2 muss absorbiert und Sauerstoff beigemischt werden können.

@@ -13,6 +13,12 @@ Currently we have developed a working prototype for a ventilator pressure regula
 ## Pressure Regulator
 ### Prototype Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0
+
+Issues in this prototype:
+- [Rückschlagventile fehlen](https://github.com/auenkind/YACoVV/issues/3)
+- [Luftblasen in Auslassschläuchen zu groß](https://github.com/auenkind/YACoVV/issues/1)
+- [Servo / Microcontroller Steuerung](https://github.com/auenkind/YACoVV/issues/2)
+
 ### Working Principle
 #### Inhalation
 ![inhalation](img/insp.png)

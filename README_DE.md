@@ -30,6 +30,12 @@ Geplante Baugruppen sind:
 ## Druckregler
 ### Prototyp Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0
+
+Probleme mit diesem Prototyp:
+- [Rückschlagventile fehlen](https://github.com/auenkind/YACoVV/issues/3)
+- [Luftblasen in Auslassschläuchen zu groß](https://github.com/auenkind/YACoVV/issues/1)
+- [Servo / Microcontroller Steuerung](https://github.com/auenkind/YACoVV/issues/2)
+
 ### Funktionsprinzip
 
 Die Druckregelung funktioniert über das simple und sichere Prinzip der Wassersäule. Zur Erzeugung von einstellbaren Drücken im System werden Schläuche auf eine dem gewünschten Druck entsprechende Tiefe in Wasser eingetaucht. Die Regelschläuche funktionieren dabei gleichzeitig als Überdruckventil. Die "Rückwege" der Wassersäulen werden mit Rückschlageventilen abgesichert so das kein Wasser zum Patienten gelangen kann.

@@ -4,11 +4,15 @@ Dieses Projekt hat zum Ziel Baugruppen zum Bau von Beatmungsgeräten zu Konstrui
 
 Alle Baugruppen sollten wo immer möglich mit Bauteilen, Rohmaterialien und Fertigkeiten hergestellt werden können die dort vorhanden sind wo die Geräte gebraucht werden.
 
-Der komplexeste Teil eines Beatmungsgerätes ist die korrekte, zuverlässige und sichere Druckregelung des Beatmungsdrucks und das halten des PEEP-Drucks. Aktuell gibt es für die Druckregelung einen vielversprechenden Lösungsansatz der bereits in einem funktionierenden Muster aufgebaut wurde.
+Der komplexeste Teil eines Beatmungsgerätes ist die korrekte, zuverlässige und sichere Druckregelung des Beatmungsdrucks und das halten des PEEP. Aktuell gibt es für die Druckregelung einen vielversprechenden Lösungsansatz der bereits in einem funktionierenden Muster aufgebaut wurde.
 
 Geplante Baugruppen sind:
 
 - [Druckregler und Taktgebung](#Druckregler)
+    - Regelung des einstellbaren Beatmungsdrucks
+    - Halten des einstellbaren PEEP
+    - Regelung der einstellbaren Beatmungsfrequenz
+    - Regelung des einstellbaren I:E verhältnisses
 
 - [Atemgas-Erzeugung / Aufbereitung](#Atemgaserzeugung)
     - Sauersoffmischung
@@ -25,6 +29,15 @@ Geplante Baugruppen sind:
 ### Prototyp Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0
 ### Funktionsprinzip
+
+Die Druckregelung funktioniert über das simple und sichere Prinzip der Wassersäule. Zur Erzeugung von einstellbaren Drücken im System werden Schläuche auf eine dem gewünschten Druck entsprechende Tiefe in Wasser eingetaucht. Die Regelschläuche funktionieren dabei gleichzeitig als Überdruckventil.
+
+Da sich hohe Eingangdrücke über dieses System nur mit sehr genauen Komponenten Regeln lassen verwenden wir einen 50 mBar Gasdruckregler zur Vorregelung des Drucks. Da diese Regler in großen Stückzahlen auf der ganzen Welt verfügbar sind stellen Sie eine ideale Lösung für unsere Problemstellung dar.
+
+Als Ventile verwenden wir da Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas Berührung kommen.
+
+Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwei Servos. Diese Lösung wird durch einen Scheibenwischermotor mit zwei [Kurvenscheiben](https://de.wikipedia.org/wiki/Kurvenscheibe) ersetzt werden.
+
 #### Inhalation
 ![inhalation](img/insp.png)
 #### Exhalation

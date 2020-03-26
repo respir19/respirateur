@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=eBIlyaHW4l0
 ### Working Principle
 #### Inhalation
 ![inhalation](img/insp.png)
-#### Inhalation
+#### Exhalation
 ![exhalation](img/exp.png)
 
 ## Contributing

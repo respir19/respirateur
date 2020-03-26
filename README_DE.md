@@ -8,7 +8,7 @@ Der komplexeste Teil eines Beatmungsgerätes ist die korrekte, zuverlässige und
 
 Geplante Baugruppen sind:
 
-- [Druckregler und Taktgebung](#Druckregler/Taktgebung)
+- [Druckregler und Taktgebung](#Druckregler)
 
 - Atemgas-Erzeugung / Aufbereitung
     - Sauersoffmischung
@@ -21,7 +21,7 @@ Geplante Baugruppen sind:
     - Druckmessung
     - Frequenzmessung
 
-## Druckregler/Taktgebung
+## Druckregler
 ### Prototyp Video
 https://www.youtube.com/watch?v=eBIlyaHW4l0
 ### Funktionsprinzip

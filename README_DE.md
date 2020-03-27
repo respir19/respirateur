@@ -43,14 +43,23 @@ Probleme mit diesem Prototyp:
 
 Die Druckregelung funktioniert über das simple und sichere Prinzip der Wassersäule. Zur Erzeugung von einstellbaren Drücken im System werden Schläuche auf eine dem gewünschten Druck entsprechende Tiefe in Wasser eingetaucht. Die Regelschläuche funktionieren dabei gleichzeitig als Überdruckventil. Die "Rückwege" der Wassersäulen werden mit Rückschlageventilen abgesichert so das kein Wasser zum Patienten gelangen kann.
 
-Da sich hohe Eingangdrücke über dieses System nur mit sehr genauen Komponenten Regeln lassen verwenden wir einen 50 mBar Gasdruckregler zur Vorregelung des Drucks. Da diese Regler in großen Stückzahlen auf der ganzen Welt verfügbar sind stellen Sie eine ideale Lösung für unsere Problemstellung dar.
+Da sich hohe Eingangsdrücke über dieses System nur mit sehr genauen Komponenten Regeln lassen verwenden wir einen 50 mBar Gasdruckregler zur Vorregelung des Drucks. Derartige Druckregler sind auf der ganzen Welt in großen Stückzahlen verfügbar.
 
-Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas in Berührung kommen (Verwendung von Einwegmaterial).
+Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas in Berührung kommen. Diese Teile des Druckregler können vollständig aus Einmalmaterial hergestellt werden und regelmäßig ausgetauscht werden. 
 
 #### Inhalation
 ![inhalation](img/insp.jpg)
+
+- Der Druck des Atemgases wird mit dem Druckregler auf einen im System einfacher weiterverarbeitbaren Druck gebracht. Es bieten sich 50 mBar an da die entsprechenden Druckregler sehr einfach verfügbar sind.
+- Das Eingangsventil wird durch die Mechanik geöffnet, eine Einstellschraube begrenzt den Luftfluss um zu verhindern das größere Mengen Atemgas durch die Beatmungs-Drucksäule entweichen. Die Einstellschraube bietet den zusätzlichen Vorteil das die Ventilmechanik keine Regelfunktionen übernehmen muss.
+- Das Atemgas fließt zum Patienten, übersteigt der Druck den mittels der Eintauchtiefe der Beatmungsdrucksäule festgelegten Wert fließt überschüssiges Gasvolumen durch die Wassersäule ab. Gleichzeitig kann über die Blasenbildung kontrolliert werden ob der eingestellte Druck während des Vorgangs erreicht wird.
+
 #### Exhalation
 ![exhalation](img/exp.jpg)
+
+- Das Eingangsventil wird geschlossen und das Ausgangsventil geöffnet.
+- Das Atemgas fließt durch die PEEP-Drucksäule ins Reservoir
+- Durch die Eintauchtiefe kann der PEEP nie unter den eingestellten Wert fallen
 
 #### Ventilsteuerung
 

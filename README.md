@@ -2,6 +2,8 @@
 
 [German-Version is more Detailed / updated more frequently](README_DE.md) <- Please translate (see Contributing)!
 
+[Spanish Version](README_ES.md)
+
 This project aims at constructing components for the production of ventilators that can be used as last-resort-solutions for SARS-CoV-2 patients. 
 
 All components should be constructed with parts, raw materials and skills needed in the places in which the devices come into use. 

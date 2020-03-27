@@ -45,7 +45,7 @@ Die Druckregelung funktioniert über das simple und sichere Prinzip der Wassers�
 
 Da sich hohe Eingangdrücke über dieses System nur mit sehr genauen Komponenten Regeln lassen verwenden wir einen 50 mBar Gasdruckregler zur Vorregelung des Drucks. Da diese Regler in großen Stückzahlen auf der ganzen Welt verfügbar sind stellen Sie eine ideale Lösung für unsere Problemstellung dar.
 
-Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas Berührung kommen.
+Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas in Berührung kommen (Verwendung von Einwegmaterial).
 
 #### Inhalation
 ![inhalation](img/insp.jpg)

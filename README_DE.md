@@ -14,16 +14,17 @@ Geplante Baugruppen sind:
     - Regelung der einstellbaren Beatmungsfrequenz
     - Regelung des einstellbaren I:E verhältnisses
 
+- [Monitoring](MONITORING_DE.md)
+    - Volumenmessung
+    - Druckmessung
+    - Frequenzmessung
+
 - [Atemgas-Erzeugung / Aufbereitung](#Atemgaserzeugung)
     - Sauersoffmischung
     - Rückgewinnung
         - Co2-Absorber
     - Heizung
     - Anfeuchtung
-- [Monitoring](#Monitoring)
-    - Volumenmessung
-    - Druckmessung
-    - Frequenzmessung
 
 [miro-Board](https://miro.com/app/board/o9J_kuxCsRI=/) (Ideen and Link-Sammlung)
 
@@ -66,8 +67,10 @@ Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.
 Durch die Nutzung der Wassersäulen ergibt sich gegenüber anderen Druckregelungssystemen eine sehr hohe Systemsicherheit.
 
 - Die Erzeugung eines Überdrucks oberhalb der eingestellten Wassersäule ist beinahe unmöglich
+- Die Druckregelung enthält keinerlei mechanische Teile die verklemmen / verkleben können dem Verschleiß der Ventilschläuche kann durch regelmäßigen austausch vorgebeugt werden.
 - Husten / Atmung durch den Patienten hat keinen Einfluss auf die Systemfunktion
 - Ein unterschreiten des PEEP ist nur bei undichtem System möglich
+- Durch Rückschlagventile wird verhindert das Wasser beim Einatmen durch den Patienten aus den Drucksäulen angesaugt wird
 
 #### Ventilsteuerung
 
@@ -79,9 +82,6 @@ Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwe
 
 ## Atemgaserzeugung
 Diese Baugruppe gewinnt das ausgeatmete Atemgas zurück. Co2 muss absorbiert und Sauerstoff beigemischt werden können.
-
-## Monitoring
-[See MONITORING](MONITORING_DE.md)
 
 ## Contributing
 Wir freuen uns über jeden Beitrag zum Projekt! Alles muss JETZT sofort passieren. Bitte denkt nicht darüber nach etwas beizutragen macht es!

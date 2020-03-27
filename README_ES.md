@@ -58,13 +58,13 @@ Se realiza la regulación de sincronización en el prototipo acutal a través de
 
 [![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
 
-[Animation der Steuerung](https://autode.sk/3dx6EbZ)
+[Animation](https://autode.sk/3dx6EbZ)
 
 ## Tratamiento del gas de respiración
-Diese Baugruppe gewinnt das ausgeatmete Atemgas zurück. Co2 muss absorbiert und Sauerstoff beigemischt werden können.
+Este grupo de módulo recupera el gas de respiración exhalado. Debe ser posible de absorber dióxido de carbono y de agregar oxígeno.
 
 ## Supervisión
-Diese Baugruppe überwacht die Drucklevel, den Pendeldruck und die Frequenz während der Beatmung.
+Este grupo de módulo monitorea el nivel de presión, la presión del péndulo y la frecuencia durante la ventilación.
 
 ## ¿Cómo puedo apoyar el proyecto?
 ¡Estamos contentos con cada contribución al proyecto! Todo tiene que suceder AHORA. ¡No solo piense en contribuir, hágalo!

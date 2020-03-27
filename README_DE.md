@@ -81,7 +81,7 @@ Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwe
 Diese Baugruppe gewinnt das ausgeatmete Atemgas zurück. Co2 muss absorbiert und Sauerstoff beigemischt werden können.
 
 ## Monitoring
-Diese Baugruppe überwacht die Drucklevel, den Pendeldruck und die Frequenz während der Beatmung.
+[See MONITORING](MONITORING_DE.md)
 
 ## Contributing
 Wir freuen uns über jeden Beitrag zum Projekt! Alles muss JETZT sofort passieren. Bitte denkt nicht darüber nach etwas beizutragen macht es!

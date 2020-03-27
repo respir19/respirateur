@@ -52,9 +52,9 @@ Utilizamos el principio de las [válvulas de manguito porque](https://www.ako-ar
 Se realiza la regulación de sincronización en el prototipo acutal a través de un microcontrolador y dos servos. Esta solución será reemplazada por un motor de limpiaparabrisas con dos discos de levas.
 
 #### Inhalación
-![inhalation](img/insp.png)
+![inhalation](img/insp.jpg)
 #### Exhalación
-![exhalation](img/exp.png)
+![exhalation](img/exp.jpg)
 
 [![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
 

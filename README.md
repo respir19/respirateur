@@ -52,9 +52,9 @@ Because the high entrance pressures can only be regulated through this system wi
 We are using the basic principle behind constriction hose-valves for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. 
 
 #### Inhalation
-![inhalation](img/insp.png)
+![inhalation](img/insp.jpg)
 #### Exhalation
-![exhalation](img/exp.png)
+![exhalation](img/exp.jpg)
 
 #### Valve-Control and Timing
 

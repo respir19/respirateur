@@ -18,7 +18,7 @@ Mit dieser Messtechnik lässt sich feststellen ob der Druck bei jedem Beatmungsz
 
 [Video mit der Detektierung von 2 Druckwerten](https://youtu.be/_2SUDyStXJM)
 
-Über eine kapazitative Messung wäre es auch möglich die absolute Höhe der Flüssigkeit im Manometer zu messen, das würde jedoch eine aufwendige Kalibierung des Systems erfordern. Des Weiteren lassen sich die fixen Messpunkte einfach auf dem Manometer verschieben um die Werte anzupassen. Soll beispielsweise der Beatmungsdruck bei einem Patienten erhöht werden reicht ein einfaches verschieben der Messstelle nach oben. 
+Über eine kapazitative Messung wäre es auch möglich die absolute Höhe der Flüssigkeit im Manometer zu messen, das würde jedoch eine aufwendige Kalibierung des Systems erfordern. Des Weiteren lassen sich die fixen Messpunkte einfach auf dem Manometer verschieben um die Werte anzupassen. Soll beispielsweise der Beatmungsdruck bei einem Patienten erhöht werden reicht ein einfaches verschieben der Messstelle nach oben aus. 
 
 ## Anzeige der Fehler
 Die Anzeige des Systemstatus kann auf mehrere Arten erfolgen.

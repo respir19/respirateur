@@ -61,6 +61,14 @@ Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.
 - Das Atemgas fließt durch die PEEP-Drucksäule ins Reservoir
 - Durch die Eintauchtiefe kann der PEEP nie unter den eingestellten Wert fallen
 
+#### Systemsicherheit
+
+Durch die Nutzung der Wassersäulen ergibt sich gegenüber anderen Druckregelungssystemen eine sehr hohe Systemsicherheit.
+
+- Die Erzeugung eines Überdrucks oberhalb der eingestellten Wassersäule ist beinahe unmöglich
+- Husten / Atmung durch den Patienten hat keinen Einfluss auf die Systemfunktion
+- Ein unterschreiten des PEEP ist nur bei undichtem System möglich
+
 #### Ventilsteuerung
 
 Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwei Servos. Diese Lösung wird durch einen Scheibenwischermotor mit zwei [Kurvenscheiben](https://de.wikipedia.org/wiki/Kurvenscheibe) ersetzt werden.

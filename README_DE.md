@@ -32,14 +32,6 @@ Geplante Baugruppen sind:
 
 ![Regulator-parts](img/system.jpg)
 
-### Prototyp Video
-[![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
-
-Probleme mit diesem Prototyp:
-- [Rückschlagventile fehlen](https://github.com/auenkind/YACoVV/issues/3)
-- [Luftblasen in Auslassschläuchen zu groß](https://github.com/auenkind/YACoVV/issues/1)
-- [Servo / Microcontroller Steuerung](https://github.com/auenkind/YACoVV/issues/2)
-
 ### Funktionsprinzip
 
 Die Druckregelung funktioniert über das simple und sichere Prinzip der Wassersäule. Zur Erzeugung von einstellbaren Drücken im System werden Schläuche auf eine dem gewünschten Druck entsprechende Tiefe in Wasser eingetaucht. Die Regelschläuche funktionieren dabei gleichzeitig als Überdruckventil. Die "Rückwege" der Wassersäulen werden mit Rückschlageventilen abgesichert so das kein Wasser zum Patienten gelangen kann.
@@ -79,6 +71,14 @@ Die Taktgebung erfolgt im aktuellen Prototyp über einen Mikrocontroller und zwe
 [![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
 
 [Animation der Steuerung](https://autode.sk/3dx6EbZ)
+
+### Druckregler Prototyp Video
+[![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
+
+Probleme mit diesem Prototyp:
+- [Rückschlagventile fehlen](https://github.com/auenkind/YACoVV/issues/3)
+- [Luftblasen in Auslassschläuchen zu groß](https://github.com/auenkind/YACoVV/issues/1)
+- [Servo / Microcontroller Steuerung](https://github.com/auenkind/YACoVV/issues/2)
 
 ## Atemgaserzeugung
 Diese Baugruppe gewinnt das ausgeatmete Atemgas zurück. Co2 muss absorbiert und Sauerstoff beigemischt werden können.

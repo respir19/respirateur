@@ -1,16 +1,16 @@
 # YACoVV - Yet Another (SARS-)CoV(-2)Ventilator
 
-Dieses Projekt hat zum Ziel Baugruppen zum Bau von Beatmungsgeräten zu Konstruieren die als "last resort" Geräte für SARS-CoV-2 Patienten eingesetzt werden können.
+Dieses Projekt hat zum Ziel, Baugruppen zum Bau von Beatmungsgeräten zu Konstruieren, die als "last resort" Geräte für SARS-CoV-2 Patienten eingesetzt werden können.
 
-Alle Baugruppen sollten wo immer möglich mit Bauteilen, Rohmaterialien und Fertigkeiten hergestellt werden können die dort vorhanden sind wo die Geräte gebraucht werden.
+Alle Baugruppen sollten mit Bauteilen, Rohmaterialien und Fertigkeiten hergestellt werden können die am Einsatzort der Geräte verfügbar sind.
 
-Der komplexeste Teil eines Beatmungsgerätes ist die korrekte, zuverlässige und sichere Druckregelung des Beatmungsdrucks und das halten des PEEP. Aktuell gibt es für die Druckregelung einen vielversprechenden Lösungsansatz der bereits in einem funktionierenden Muster aufgebaut wurde.
+Der komplexeste Teil eines Beatmungsgerätes ist die korrekte, zuverlässige und sichere Druckregelung des Beatmungsdrucks und das halten des [PEEP](https://de.wikipedia.org/wiki/Positiver_endexspiratorischer_Druck). Aktuell gibt es für die Druckregelung Lösungsansatz der bereits in einem funktionierenden Muster aufgebaut ist.
 
 Geplante Baugruppen sind:
 
 - [Druckregler und Taktgebung](#Druckregler)
     - Regelung des einstellbaren Beatmungsdrucks
-    - Halten des einstellbaren PEEP
+    - Halten des einstellbaren [PEEP](https://de.wikipedia.org/wiki/Positiver_endexspiratorischer_Druck)
     - Regelung der einstellbaren Beatmungsfrequenz
     - Regelung des einstellbaren I:E verhältnisses
 
@@ -34,17 +34,17 @@ Geplante Baugruppen sind:
 
 ### Funktionsprinzip
 
-Die Druckregelung funktioniert über das simple und sichere Prinzip der Wassersäule. Zur Erzeugung von einstellbaren Drücken im System werden Schläuche auf eine dem gewünschten Druck entsprechende Tiefe in Wasser eingetaucht. Die Regelschläuche funktionieren dabei gleichzeitig als Überdruckventil. Die "Rückwege" der Wassersäulen werden mit Rückschlageventilen abgesichert so das kein Wasser zum Patienten gelangen kann.
+Die Druckregelung funktioniert über das einfache und sichere Prinzip der [Wassersäule](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule). Die zur Beatmung gewünschten Systemdrücke werden mit der Eintauchtiefe der beiden Schläuche reguliert. Die Regelschläuche funktionieren auch als Überdruckventil. Die "Rückwege" der Wassersäulen werden mit Rückschlageventilen versperrt damit kein Wasser zum Patienten gelangen kann.
 
-Da sich hohe Eingangsdrücke über dieses System nur mit sehr genauen Komponenten Regeln lassen verwenden wir einen 50 mBar Gasdruckregler zur Vorregelung des Drucks. Derartige Druckregler sind auf der ganzen Welt in großen Stückzahlen verfügbar.
+Um einen großen Bereich unterschiedlichster Atemgas-Eingansdrücke abdecken zu können wird ein [50 mBar Gasdruckregler](https://www.campingaz.com/DE/p-25990-verstellbarer-regler-30-50-mbar.aspx) zur Vorregelung verwendet. Diese Druckregler sind auf der ganzen Welt in großen Stückzahlen verfügbar.
 
-Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus einer Vielzahl von weit verfügbaren Komponenten einfach zusammengebaut werden können. Zusätzlich bietet diese Ventilart den Vorteil des einfachen Austauschs aller Komponenten die mit kontaminierten Gas in Berührung kommen. Diese Teile des Druckregler können vollständig aus Einmalmaterial hergestellt werden und regelmäßig ausgetauscht werden. 
+Das System verdendet Ventile nach dem Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus unterschiedlichsten, einfach verfügbaren Komponenten aufgebaut werden können. Ausserdem ermöglicht diese Ventilart einen einfachen Austauschs aller Komponenten die mit kontaminierten Gasen in Berührung kommen. Diese Teile des Druckregler können vollständig aus Einmalmaterial hergestellt und regelmäßig ausgetauscht werden. 
 
 #### Inhalation
 ![inhalation](img/insp.jpg)
 
-- Der Druck des Atemgases wird mit dem Druckregler auf einen im System einfacher weiterverarbeitbaren Druck gebracht. Es bieten sich 50 mBar an da die entsprechenden Druckregler sehr einfach verfügbar sind.
-- Das Eingangsventil wird durch die Mechanik geöffnet, eine Einstellschraube begrenzt den Luftfluss um zu verhindern das größere Mengen Atemgas durch die Beatmungs-Drucksäule entweichen. Die Einstellschraube bietet den zusätzlichen Vorteil das die Ventilmechanik keine Regelfunktionen übernehmen muss.
+- Der Druck des Atemgases wird mit dem Druckregler auf einen im System einfacher weiterverarbeitbaren Druck gebracht. Es bieten sich 50 mBar an da die entsprechenden Druckregler gut verfügbar sind.
+- Das Eingangsventil wird durch die Mechanik geöffnet. Die Einstellschraube begrenzt den Luftfluss. Durch die Begrenzung wird der Einsatz einer Steuerungsmechanik ohne Regelfunktionen ermöglicht und der Verlust von Atemgas durch die Regelfunktion der Wassersäule minimiert.
 - Das Atemgas fließt zum Patienten, übersteigt der Druck den mittels der Eintauchtiefe der Beatmungsdrucksäule festgelegten Wert fließt überschüssiges Gasvolumen durch die Wassersäule ab. Gleichzeitig kann über die Blasenbildung kontrolliert werden ob der eingestellte Druck während des Vorgangs erreicht wird.
 
 #### Exhalation
@@ -56,7 +56,7 @@ Als Ventile verwenden wir das Prinzip von [Schlauchquetschventilen](https://www.
 
 #### Systemsicherheit
 
-Durch die Nutzung der Wassersäulen ergibt sich gegenüber anderen Druckregelungssystemen eine sehr hohe Systemsicherheit.
+Durch die Nutzung der [Wassersäulen](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule) ergibt sich gegenüber anderen Druckregelungssystemen eine sehr hohe Systemsicherheit.
 
 - Die Erzeugung eines Überdrucks oberhalb der eingestellten Wassersäule ist beinahe unmöglich
 - Die Druckregelung enthält keinerlei mechanische Teile die verklemmen / verkleben können dem Verschleiß der Ventilschläuche kann durch regelmäßigen austausch vorgebeugt werden.

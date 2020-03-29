@@ -31,7 +31,7 @@ Regulación de la relación entre la inspiración y la expiración
 
 ## Reguladores de presión y sincronización
 
-![Regulator-parts](img/system.jpg)
+![Regulator-parts](img/system_en.jpg)
 
 ### Un vídeo de un prototipo
 [![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
@@ -52,9 +52,9 @@ Utilizamos el principio de las [válvulas de manguito porque](https://www.ako-ar
 Se realiza la regulación de sincronización en el prototipo actual a través de un microcontrolador y dos servos. Esta solución será reemplazada por un motor de limpiaparabrisas con dos discos de levas.
 
 #### Inhalación
-![inhalation](img/insp.jpg)
+![inhalation](img/insp_en.jpg)
 #### Exhalación
-![exhalation](img/exp.jpg)
+![exhalation](img/exp_en.jpg)
 
 [![Kurvenscheiben](img/camdisc.png)](https://autode.sk/3dx6EbZ)
 

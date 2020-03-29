@@ -11,6 +11,8 @@ https://github.com/PubInv (Public Invention, ceux qui font la grosse liste Excel
 
 https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-design-and-deploy-an-open-source-ventilator/comment-page-6/
 
+https://panvent.blogspot.com/ (design "Vinnie 2")
+
 
 
 

@@ -1,8 +1,11 @@
 LIENS
 
 https://github.com/auenkind --> yacovv
+
 https://miro.com/app/board/o9J_kuxCsRI=/ (brouillons et liens de Auenkind)
+
 https://github.com/jcl5m1/ventilator (projet "Low cost open source" en tête de la liste Excel de PubInv)
+
 https://github.com/PubInv (Public Invention, ceux qui font la grosse liste Excel)
 
 

@@ -6,7 +6,7 @@ El objetivo de este proyecto es construir grupos de módulos que son necesarios 
 
 Siempre que sea posible, todos los grupos de módulos deben poder fabricarse con componentes, materias primas y habilidades que estén disponibles donde se necesiten los dispositivos.
 
-La parte más compleja de un respirador es la regulación correcta, confiable y segura de la presión de ventilación asi también de la presión positiva al final de la espiración (PEEP). Actualmente existe un enfoque prometedoro para la regulación de presión que ya se ha creado en un modelo.
+La parte más compleja de un respirador es la regulación correcta, confiable y segura de la presión de ventilación como así también de la presión positiva al final de la espiración (PEEP). Actualmente existe un enfoque prometedor para la regulación de presión que ya se ha creado en un modelo.
 
 Los grupos de módulos planificados son:
 
@@ -49,7 +49,7 @@ Dado que las altas presiones de entrada solo pueden regularse con este sistema c
 
 Utilizamos el principio de las [válvulas de manguito porque](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) tales válvulas pueden ensamblarse fácilmente a partir de una variedad de componentes ampliamente disponibles. Además, este tipo de válvula ofrece la ventaja de reemplazar fácilmente todos los componentes que entran en contacto con el gas contaminado.
 
-Se realiza la regulación de sincronización en el prototipo acutal a través de un microcontrolador y dos servos. Esta solución será reemplazada por un motor de limpiaparabrisas con dos discos de levas.
+Se realiza la regulación de sincronización en el prototipo actual a través de un microcontrolador y dos servos. Esta solución será reemplazada por un motor de limpiaparabrisas con dos discos de levas.
 
 #### Inhalación
 ![inhalation](img/insp.jpg)
@@ -71,8 +71,8 @@ Este grupo de módulo monitorea el nivel de presión, la presión del péndulo y
 
 Si el resultado de este proyecto gana premios en concursos como el [Code Life Ventilator Challenge](https://www.agorize.com/en/challenges/code-life-challenge?lang=en), se utilizarán para construir los componentes o mejorar el diseño.
 
-Cosas que todos pueden contribuirse actualmente:
+Cosas al cual todos pueden contribuir actualmente:
 
-- Traduzca el README_DE.md (archivo actual) a tantos idiomas como sea posible. El archivo cambiará muy rápidamente y los cambios deben traducirse lo más rápido posible.
+- Traduzca el `README_ES.md` (archivo actual) a tantos idiomas como sea posible. El archivo cambiará muy rápidamente y los cambios deben traducirse lo más rápido posible.
 - Construya un YACoVV y déjelo correr. Sería genial recibir comentarios sobre los materiales que se pueden usar y sobre las problemas que surgen durante la construcción.
-- Aborde un tema específico de las problemas mencionadas y así ayude a avanzar el proyecto.
+- Aborde un tema específico de las problemas mencionados y así ayuda a avanzar el proyecto.

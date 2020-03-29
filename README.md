@@ -31,7 +31,7 @@ The components are:
 
 ## Pressure regulator
 
-![Regulator-parts](img/system.jpg)
+![Regulator-parts](img/system_en.jpg)
 
 ### Functional principle
 
@@ -42,13 +42,13 @@ Because high entrance pressures can only be regulated through this system with v
 We are using the basic principle behind [constriction hose-valves](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. 
 
 #### Inhalation
-![inhalation](img/insp.jpg)
+![inhalation](img/insp_en.jpg)
 
 - The input pressured is reduced to ~ 50 mBar by a [mechanical pressure regulator](https://www.campingaz.com/DE/p-25990-verstellbarer-regler-30-50-mbar.aspx)
 - The input valve is opened mechanically. A adjustment screw limit flow-volume. Due to the adjustment screw valves without regulating funtions can be used and gas-loss through the limiting water column is minimized.
 - Gas flows towards the patent until the pressure reaches the level set by the wate column. 
 #### Exhalation
-![exhalation](img/exp.jpg)
+![exhalation](img/exp_en.jpg)
 - The input valve is closed and the output valve opened
 - Gas flows from the patient through the PEEP water column into the reservoir
 - PEEP can be adjusted by mofing the water column

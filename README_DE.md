@@ -34,7 +34,7 @@ Geplante Baugruppen sind:
 
 ## Druckregler
 
-![Regulator-parts](img/system_en.jpg)
+![Regulator-parts](img/system.jpg)
 
 ### Funktionsprinzip
 
@@ -45,14 +45,14 @@ Um einen großen Bereich unterschiedlichster Atemgas-Eingansdrücke abdecken zu 
 Das System verdendet Ventile nach dem Prinzip von [Schlauchquetschventilen](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) da derartige Ventile aus unterschiedlichsten, einfach verfügbaren Komponenten aufgebaut werden können. Ausserdem ermöglicht diese Ventilart einen einfachen Austauschs aller Komponenten die mit kontaminierten Gasen in Berührung kommen. Diese Teile des Druckregler können vollständig aus Einmalmaterial hergestellt und regelmäßig ausgetauscht werden. 
 
 #### Inhalation
-![inhalation](img/insp_en.jpg)
+![inhalation](img/insp.jpg)
 
 - Der Druck des Atemgases wird mit dem Druckregler auf einen im System einfacher weiterverarbeitbaren Druck gebracht. Es bieten sich 50 mBar an da die entsprechenden Druckregler gut verfügbar sind.
 - Das Eingangsventil wird durch die Mechanik geöffnet. Die Einstellschraube begrenzt den Luftfluss. Durch die Begrenzung wird der Einsatz einer Steuerungsmechanik ohne Regelfunktionen ermöglicht und der Verlust von Atemgas durch die Regelfunktion der Wassersäule minimiert.
 - Das Atemgas fließt zum Patienten, übersteigt der Druck den mittels der Eintauchtiefe der Beatmungsdrucksäule festgelegten Wert fließt überschüssiges Gasvolumen durch die Wassersäule ab. Gleichzeitig kann über die Blasenbildung kontrolliert werden ob der eingestellte Druck während des Vorgangs erreicht wird.
 
 #### Exhalation
-![exhalation](img/exp_en.jpg)
+![exhalation](img/exp.jpg)
 
 - Das Eingangsventil wird geschlossen und das Ausgangsventil geöffnet.
 - Das Atemgas fließt durch die PEEP-Drucksäule ins Reservoir

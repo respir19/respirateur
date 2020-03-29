@@ -14,17 +14,18 @@ The components are:
 - [Pressure regulator and timing](#Pressure%20regulator)
     - Regulation of the ventilation pressure
     - Upholding the modifiable PEEP
+    - Regulation of modifiable Breath Frequency
     - Regulation of modifiable I:E relation
+- [Monitoring](MONITORING_DE.md) (please Translate!)
+    - Measurement of volume
+    - Measurement of pressure
+    - Measurement of frequency
 - [Respiratory gas/ Processing](#Breath%20gas%20production)
     - ozone/oxygen mixture
     - Recovery
         - Co2-absorber 
     - Heating 
     - Humidification
-- [Monitoring](#Monitoring)
-    - Measurement of volume
-    - Measurement of pressure
-    - Measurement of frequency
 
 [miro-Board](https://miro.com/app/board/o9J_kuxCsRI=/) (Idea and Link Collection)
 
@@ -32,7 +33,41 @@ The components are:
 
 ![Regulator-parts](img/system.jpg)
 
-### Here’s a video of a prototype
+### Functional principle
+
+The concept behind the [water column](https://de.wikipedia.org/wiki/Meter_Wassers%C3%A4ule) makes sure pressure regulation functions. To generate modifiable pressures in the system, tubes are immersed into water appropriate to the desired pressure. The control tubes are simultaneously used as relief valve. The “return paths” of the water column are savely secured through check valves so that no water can flow back to the patient.
+
+Because high entrance pressures can only be regulated through this system with very precise component, we decided using a [50 mBar gas pressure regulator](https://www.campingaz.com/DE/p-25990-verstellbarer-regler-30-50-mbar.aspx) to pre-regulate the pressure. These regulations are available all over the world.
+
+We are using the basic principle behind [constriction hose-valves](https://www.ako-armaturen.de/produkte/mechanische-schlauchquetschventile.html) for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. 
+
+#### Inhalation
+![inhalation](img/insp.jpg)
+
+- The input pressured is reduced to ~ 50 mBar by a [mechanical pressure regulator](https://www.campingaz.com/DE/p-25990-verstellbarer-regler-30-50-mbar.aspx)
+- The input valve is opened mechanically. A adjustment screw limit flow-volume. Due to the adjustment screw valves without regulating funtions can be used and gas-loss through the limiting water column is minimized.
+- Gas flows towards the patent until the pressure reaches the level set by the wate column. 
+#### Exhalation
+![exhalation](img/exp.jpg)
+- The input valve is closed and the output valve opened
+- Gas flows from the patient through the PEEP water column into the reservoir
+- PEEP can be adjusted by mofing the water column
+
+#### System-Safety
+- Over-Pressurizing is practically impossible in the system as the pressure is only closed by water columns. No mechanical parts restrict the pressure.
+- There are no mechanical parts that cna get stuck
+- Losing PEEP is only possible when there are leaks
+- check valves ensure that no water can flow towards the patient
+
+#### Valve-Control and Timing
+
+The timing currently functions through a microcontroller and two servos. This solution will replaced with the motor of a windscreen wiper with two [camdiscs](https://en.wikipedia.org/wiki/Cam).
+
+[![Camdiscs](img/camdisc.png)](https://autode.sk/3dx6EbZ)
+
+[Camdisc Animation](https://autode.sk/3dx6EbZ)
+
+### Functional Prototype
 
 [![Prototype](img/prototype.jpg)](https://www.youtube.com/watch?v=eBIlyaHW4l0)
 
@@ -41,34 +76,8 @@ Problems with this prototype:
 - [Air bubbles in discharge hose too big](https://github.com/auenkind/YACoVV/issues/1)
 - [Servo/Microtroller](https://github.com/auenkind/YACoVV/issues/2)
 
-### Functional principle
-
-The concept behind the water column makes sure pressure regulation functions. To generate modifiable pressures in the system, tubes are immersed into water appropriate to the wanted pressure. The control tubes are simultaneously used as relief valve. 
-
-The “return paths” of the water column are savely secured through check valves so that no water can flow back to the patient.
-
-Because the high entrance pressures can only be regulated through this system with very precise component rules, we decided on using a 50 mBar gas pressure regulator to pre-regulate the pressure. Since these regulations are available all over the world, they are an ideal solution for our problem.
-
-We are using the basic principle behind constriction hose-valves for our valves since these can be easily manufactured out of widely available components. On top of that, these kinds of valves bear the advantage that all components that come into contact with contaminated gas can be replaced. 
-
-#### Inhalation
-![inhalation](img/insp.jpg)
-#### Exhalation
-![exhalation](img/exp.jpg)
-
-#### Valve-Control and Timing
-
-The timing currently functions through a microcontroller and two servos. This solution will replaced with the motor of a windscreen wiper with two camdiscs.
-
-[![Camdiscs](img/camdisc.png)](https://autode.sk/3dx6EbZ)
-
-[Camdisc Animation](https://autode.sk/3dx6EbZ)
-
 ## Breath gas production
-This component reuses the exhaled breath gas. Co2 is absorbed and oxygen is mixed in. 
-
-## Monitoring
-This component supervises the pressure level, the pressure swing and frequency during ventilation.
+This component reuses the exhaled breath gas. Co2 is absorbed and oxygen is mixed in.
 
 ## Contributing
 We are happy about every contribution to this project! We need action NOW! Please don’t overthink your contribution, join us!

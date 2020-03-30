@@ -42,4 +42,5 @@ La fréquence respiratoire et une description plus précise d'une erreur peuvent
 
 Une alarme acoustique doit absolument être installée. Conjointement aux LED, un système défectueux peut [ainsi] être identifié rapidement et clairement, même avec un grand nombre d'appareils proches les uns des autres.
 
-- source : https://github.com/auenkind/YACoVV/blob/master/MONITORING_DE.md
+---------------
+- fichier d'origine : https://github.com/auenkind/YACoVV/blob/master/MONITORING_DE.md

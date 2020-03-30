@@ -13,7 +13,7 @@ https://hackaday.com/2020/03/12/ultimate-medical-hackathon-how-fast-can-we-desig
 
 https://panvent.blogspot.com/ (design "Vinnie 2")
 
-
+https://www.youtube.com/watch?v=gk_Qf-JAL84 "Mechanical Ventilation Explained Clearly - Ventilator Settings & Modes"
 
 
 

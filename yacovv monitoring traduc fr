@@ -1,13 +1,16 @@
 # YACoVV Monitoring
+
 La ventilation peut entraîner une multitude de problèmes qui doivent être détectés rapidement.
 
 ## Considérations
+
 - La surveillance doit être indépendante du contrôle de la ventilation.
 - L'atteinte de la pression de ventilation doit être détectée.
 - Le maintien de la PEEP doit être surveillé
 - Affichage des erreurs via des signaux acoustiques et optiques
 
 ## Implémentation
+
 Dans une première approche, nous avons testé une mesure capacitive de plusieurs hauteurs sur la colonne d'eau.
 La technologie de mesure consiste en un câble isolé qui est guidé dans la colonne d'eau du manomètre, ainsi que d'autres câbles isolés qui sont enroulés sur le manomètre autour de l'emplacement des valeurs de pression à détecter.
 
@@ -21,15 +24,22 @@ Cette technique de mesure peut être utilisée pour déterminer si la pression o
 Une mesure capacitive permettrait également de mesurer la hauteur absolue du liquide dans le manomètre, mais cela nécessiterait un étalonnage complexe du système. De plus, les points de mesure fixes peuvent être facilement déplacés sur le manomètre pour ajuster les valeurs. Si, par exemple, la pression de ventilation d'un patient doit être augmentée, il suffit de déplacer le point de mesure vers le haut.
 
 ## Affichage des erreurs
+
 L'état du système peut être affiché de plusieurs manières.
+
 ### LED colorées
+
 - rouge: défaut
 - vert: la ventilation est stable
 - jaune: il y a eu une erreur de ventilation, mais celle-ci a disparu d'elle-même. L'erreur peut être réinitialisée en appuyant sur un bouton.
 Les LED vertes et jaunes peuvent également clignoter en même temps que la ventilation. Cela permet de reconnaître la fréquence même à une plus grande distance.
+
 ### Affichage
+
 La fréquence respiratoire et une description plus précise d'une erreur peuvent être affichées sur un écran. L'affichage n'est pas un remplacement pour les LED mais un ajout.
+
 ### Alarme acoustique
+
 Une alarme acoustique doit absolument être installée. Conjointement aux LED, un système défectueux peut [ainsi] être identifié rapidement et clairement, même avec un grand nombre d'appareils proches les uns des autres.
 
 - source : https://github.com/auenkind/YACoVV/blob/master/MONITORING_DE.md

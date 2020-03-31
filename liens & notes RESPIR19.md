@@ -48,3 +48,20 @@ ils pensent aussi à une machine faisable avec les moyens du bord, du genre en A
 je trouve leur capteur de niveau compliqué, (https://github.com/auenkind/YACoVV/blob/master/MONITORING_DE.md) si un germanophone veut traduire en fçs ou anglais ils sont preneurs (il y a une vidéo ) j'aurai fait ça avec une photodiode + diode
 
 
+--------------------------
+- Communiqué de la Société de Réanimation de Langue Française (28 mars, mis à jour 31 mars) :
+
+Appel aux industriels français à participer à l’effort contre le coronavirus
+
+Une vague massive d’admissions en réanimation de patients souffrant du COVID-19 en situation de détresse respiratoire aiguë a frappé les établissements de soins français ces derniers jours, épuisant les ressources matérielles malgré une importante mobilisation des moyens humains des personnels soignants.
+
+Pour faire face à cette crise sanitaire sans précédent et donner aux soignants les moyens de réaliser leur mission auprès de la population, nous, réanimateurs, exigeons que le gouvernement et la société civile offrent leur soutien dans cette guerre contre le coronavirus.
+
+Ce jour, nous lançons un appel aux industriels français, en particulier du secteur automobile, des pneumatiques, des compresseurs… à participer à l’effort de guerre et de se rapprocher au plus vite des fabricants de ventilateurs.
+
+Sans des renforts logistiques importants et immédiats, les services de réanimation n’auront pas la capacité de prendre en charge les patients malgré la réaction héroïque du personnel soignant.
+
+N’acceptant pas la perte de vie humaine au titre d’un manque économique ou logistique, la SRLF exige des pouvoirs publics de mobiliser le monde industriel dans la guerre qu’elle mène contre le Covid-19.
+
+Pr Eric Maury
+Président de la SRLF

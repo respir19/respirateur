@@ -65,3 +65,15 @@ N’acceptant pas la perte de vie humaine au titre d’un manque économique ou 
 
 Pr Eric Maury
 Président de la SRLF
+
+--------------------------------
+
+Un consortium de quatre grands groupes industriels français s'est créé avec l'objectif de fabriquer "d'ici mi-mai 10.000 respirateurs" pour équiper les hôpitaux débordés par les cas graves de malades contaminés par le coronavirus, a annoncé mardi Emmanuel Macron.
+
+
+Mené par Air Liquide, ce consortium rassemble aussi le spécialiste des équipements électriques Schneider Electric, l'équipementier automobile Valeo et le constructeur PSA (Peugeot, Citroën), a précisé le président de la République en déplacement dans une usine de production de masques dans le Maine-et-Loire.
+
+
+Le consortium produira des respirateurs lourds destinés à équiper les lits supplémentaires annoncés par le ministre de la Santé Olivier Véran la semaine dernière.
+
+- https://www.lci.fr/sante/en-direct-coronavirus-covid-19-ncov-pandemie-en-france-les-dernieres-informations-sur-la-pandemie-de-covid-19-mardi-31-mars-2149569.html mardi 31 mars 15h44

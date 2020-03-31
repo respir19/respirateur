@@ -77,3 +77,13 @@ Mené par Air Liquide, ce consortium rassemble aussi le spécialiste des équipe
 Le consortium produira des respirateurs lourds destinés à équiper les lits supplémentaires annoncés par le ministre de la Santé Olivier Véran la semaine dernière.
 
 - https://www.lci.fr/sante/en-direct-coronavirus-covid-19-ncov-pandemie-en-france-les-dernieres-informations-sur-la-pandemie-de-covid-19-mardi-31-mars-2149569.html mardi 31 mars 15h44
+
+----------------------
+
+ Un consortium mené par Air Liquide pour produire des respirateurs
+
+Emmanuel Macron a officialisé une autre initiative d'industriels pour accélérer la production de respirateurs légers et lourds en France. Un consortium mené par Air Liquide (qui en assemble sur son site d'Antony, dans les Hauts-de-Seine) va s'y atteler dans les prochaines semaines. PSA, Valeo, Schneider Electric participeront à l'effort. "250 respirateurs lourds seront livrés dans les huit prochains jours, puis l'objectif est de monter en volume pour fournir 10 000 respirateurs d'ici mi-mai", annonce le président.
+
+Ce sont en réalité une centaine d'entreprises qui sont mobilisées pour fournir les 300 composants nécessaires à l'assemblage de ces respirateurs. Une équipe d'une cinquantaine de salariés de l'usine PSA de Poissy (Yvelines) assembleront le bloc central de ces respirateurs, qui seront ensuite livrés à l'usine Air Liquide d'Antony.
+
+-https://www.usinenouvelle.com/article/michelin-psa-valeo-faurecia-ces-industriels-qui-repondent-a-l-appel-d-emmanuel-macron-de-produire-davantage-sur-le-sol-national.N948311 mardi 31 mars 16h
